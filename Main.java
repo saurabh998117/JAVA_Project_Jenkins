@@ -5,5 +5,6 @@ public class Main{
     System.out.println("hello");
     System.out.println("this is java project");
     System.out.println(new Date());
+    System.out.println("hello");
     }
 }
